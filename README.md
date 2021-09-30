@@ -9,7 +9,7 @@ Just A Simple To Do List but committed to Local Storage
  </ul>
  
  ### Link
- <a href = "p/"> Project Link </a>
+ <a href = "https://dammy-craetodolist.netlify.app/"> Project Link </a>
  
  ### Author
  <ul>
